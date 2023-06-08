@@ -1,5 +1,0 @@
-library(tidyverse)
-library(repr)
-library(tidymodels)
-cancer_data <- read_csv("cancer_reg.csv")
-
