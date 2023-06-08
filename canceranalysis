@@ -1,0 +1,4 @@
+library(tidyverse)
+library(repr)
+library(tidymodels)
+read_csv("cancer_reg.csv")
