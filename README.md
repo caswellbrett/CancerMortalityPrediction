@@ -1,2 +1,2 @@
-# dsci-100-project_template
+# Cancer Mortality Rate Predictions
 Dataset: https://data.world/nrippner/ols-regression-challenge
